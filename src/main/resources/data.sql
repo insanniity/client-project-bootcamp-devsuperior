@@ -1,0 +1,10 @@
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Maria Silva', '12345678901', '6500.0',TIMESTAMP WITH TIME ZONE '1994-07-20T10:30:00Z', '2', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Joa tadeu', '45344866852', '1500.0',TIMESTAMP WITH TIME ZONE '1995-07-20T10:30:00Z', '4', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Bob Dylan', '39136824577', '3000.0',TIMESTAMP WITH TIME ZONE '1997-07-20T10:30:00Z', '6', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Corey Taylor', '77722833853', '200.0',TIMESTAMP WITH TIME ZONE '1998-07-20T10:30:00Z', '1', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Joe Jordison', '04583815514', '600.5',TIMESTAMP WITH TIME ZONE '2000-07-20T10:30:00Z', '9', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Ed sheran', '84427634494', '50.0',TIMESTAMP WITH TIME ZONE '2020-07-20T10:30:00Z', '12', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Dean', '97384129516', '650.0',TIMESTAMP WITH TIME ZONE '1800-07-20T10:30:00Z', '13', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Asta', '19556741674', '60.0',TIMESTAMP WITH TIME ZONE '1994-07-20T10:30:00Z', '0', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Samuel', '41828171255', '1000.0',TIMESTAMP WITH TIME ZONE '1993-07-20T10:30:00Z', '1', NOW());
+INSERT INTO tbl_client (name, cpf, income, birth_date, children, created_at) VALUES ('Jonatahn davis', '68281932376', '6800.4',TIMESTAMP WITH TIME ZONE '1991-07-20T10:30:00Z', '2', NOW());
