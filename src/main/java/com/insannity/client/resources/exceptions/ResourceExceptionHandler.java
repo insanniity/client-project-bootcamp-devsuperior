@@ -24,7 +24,7 @@ public class ResourceExceptionHandler extends ResponseEntityExceptionHandler {
 		StandardError err = new StandardError();
 		err.setTimestamp(Instant.now());
 		err.setStatus(status.value());
-		err.setError("Categoria não encontrada");
+		err.setError("Client não encontrado");
 		err.setMessage(e.getMessage());
 		err.setPath(request.getRequestURI());
 		
